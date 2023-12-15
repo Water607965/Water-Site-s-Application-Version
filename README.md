@@ -16,7 +16,8 @@ Download Process 🔽 (For Internet Viewing File):
 2. Launch the file 📁.
 3. That's it! You're done! You've successfully launched the website file into your web browser (keep note, it is not an application) ✔️.
 
-	Extended Version (Icon) !
+
+Extended Version (Icon) !
 
 As we've seen, we've demonstrated your way through how you can create the water application on your own on a modern Mac without any concerns, issues, or relatable distresses.
 
