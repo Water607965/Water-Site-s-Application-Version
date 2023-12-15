@@ -25,7 +25,7 @@ However, there isn't something right for the icon, as it is not a PNG file and i
 
 To fix this, go to this link (https://webstockreview.net/images/water-icon-png-3.png) and save the image.
 
-# 💧 Afterwards, Here are the steps to correctly assign the water icon 💧 :
+# 💧 Steps to Desicevely Correctly Assign the Water Icon 💧
 
 1. Go to finder 📁.
 2. Go the water application 💧.
