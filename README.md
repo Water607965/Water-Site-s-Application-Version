@@ -3,13 +3,12 @@ Hello 👋! This is a web-based application of the water site. You must've seen 
 
 Download Process 🔽 (For Application):
 
-1. Click the "code" button in Github 💻.
-2. Download the ZIP file 📁.
-3. Open the ZIP file and find the water application 📁.
-4. Open the water application 💧.
-5. That's it! You've successfully opened the water site with ease as an application on your former computer 💻.
-6. Finalization sub-step: The water applications' icon is incorrect, as MacOS defaults to this inaccurate icon. You can get the correct water icon of the water site to appear as the water icon correctly on the application by copying the icon from this site (http://all-about-water-filters.com/wp-content/uploads/2017/03/Icon-water-blue.svg_.png) and then change the application's icon in MacOS (Research if you don't know how to! 🩹)
-7. You're perfectly done ✔️.
+1. Before taking a look at the downlad process, ensure that you have your safari web browser launched.
+2. Go to the website (https://sites.google.com/view/who-is-water).
+3. Go to the help menu in the Mac menu bar and type in "add to dock". Go to this link to see the screenshot for a better view (https://github.com/Water607965/Water-Site-s-Application-Version/assets/151555387/c28e6949-cdb8-47f3-bc50-403c4cd90797)
+4. Click create application.
+5. Run the application on your computer.
+6. That's it! You've successfully launched the water application as a website for Mac on your computer!
 
 Download Process 🔽 (For Internet Viewing File):
 
