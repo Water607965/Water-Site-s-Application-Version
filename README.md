@@ -4,13 +4,13 @@ Hello 👋! This is a web-based application of the water site. You must've seen 
 # 🔽 Download Process 🔽 (For Application):
 
 1. Before taking a look at the downlad process, ensure that you have your safari web browser launched.
-2. Go to the website (https://sites.google.com/view/who-is-water).
+2. Go to the website: https://h2owater.xyz
 3. Go to the help menu in the Mac menu bar and type in "add to dock". Go to this link to see the screenshot for a better view (https://github.com/Water607965/Water-Site-s-Application-Version/assets/151555387/c28e6949-cdb8-47f3-bc50-403c4cd90797)
 4. Click create application.
 5. Run the application on your computer.
 6. That's it! You've successfully launched the water application as a website for Mac on your computer!
 
-# 🔽 Download Process 🔽 (For Internet Viewing File):
+# 🔽 Download Process (For Internet Viewing File): 🔽 
 
 1. Ensure that you have an active internet connection 🌐.
 2. Launch the file 📁.
@@ -23,7 +23,7 @@ As we've seen, we've demonstrated your way through how you can create the water 
 
 However, there isn't something right for the icon, as it is not a PNG file and is instead, a water logo that has a white background.
 
-To fix this, go to this link (https://webstockreview.net/images/water-icon-png-3.png) and save the image.
+To fix this, go to this link (https://github.com/Water607965/Water-Website-Icon) and download the GitHub contents of the GitHub repository to get the water site icon of the water site. Then, follow the instructions below.
 
 # 💧 Steps to Desicevely Correctly Assign the Water Icon 💧
 
