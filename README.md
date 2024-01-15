@@ -15,6 +15,7 @@ Hello 👋! This is a web-based application of the water site. You must've seen 
 1. Ensure that you have an active internet connection 🌐.
 2. Launch the file 📁.
 3. That's it! You're done! You've successfully launched the website file into your web browser (keep note, it is not an application) ✔️.
+4. Note: There's way more files that you can look at and are for open-source purposes.
 
 
 # 🆒 Extended Version 🆒 (Icon) !
