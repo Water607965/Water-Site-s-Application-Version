@@ -4,7 +4,7 @@ Hello 👋! This is a web-based application of the water site. You can download 
 # 🔽 Download Process 🔽 (For Official Application):
 * Ensure you have an active internet connection 🛜.
 * Click the code button and download as "zip," or do ```git clone https://github.com/Water607965/Water-Site-s-Application-Version``` in your terminal or command line on your computer. Afterwards, type ```cd Water-Site-s-Application-Version``` and type ```ls```.
-* Open the ZIP file named, "waterlord.zip" 🤐.
+* Extract the ZIP file named, "waterlord.app.zip" 🤐 by double clicking it in your files application, or typing ```open waterlord.ap.zip``` in your terminal or command lime.
 * Open the app inside of it 📱.
 * That's it! You've successfully launched the app! Otherwise, have a great rest of your day!
 
