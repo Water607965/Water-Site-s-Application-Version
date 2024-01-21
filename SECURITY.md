@@ -4,7 +4,7 @@ We don't do anything malicious with your data, nor do we do anything malicious w
 
 ## Supported Versions
 
-Ensure you are updated to nearly, or the latest MacOS version.
+Ensure you are updated to nearly, or the latest MacOS version if you are installing the application itself, or viewing the Safari Dock Feature. Otherwise, please update your other devices for the internet archive file to properly work at its best ability.
 
 ## Reporting a Vulnerability
 
