@@ -3,11 +3,12 @@ Hello 👋! This is a web-based application of the water site. You can download 
 
 # 🔽 Download Process 🔽 (For Official Application):
 * Ensure you have an active internet connection 🛜.
-* Click the code button and download as "zip," or do ```git clone https://github.com/Water607965/Water-Site-s-Application-Version``` in your terminal or command line on your computer. Afterwards, type ```cd Water-Site-s-Application-Version``` and type ```ls```.
-* Extract the ZIP file named, "waterlord.dmg" 🤐 by double clicking it in your files application, or typing ```open waterlord.app.zip``` in your terminal or command lime.
-* Drag the application inside of the DMG installer to the applications folder.
-* Go to your applications folder and launch the app, "waterlord".
-* That's it! You've successfully launched the app! Otherwise, have a great rest of your day!
+* Double click the PKG installer.
+* Go through the installer.
+* Afterwards the installation is complete, go to your applications folder.
+* Look for "Waterlord".
+* Launch it.
+* There ya go! Otherwise, have a great rest of your day!
 
 # 🔽 Download Process 🔽 (For Web-App):
 
