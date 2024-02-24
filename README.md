@@ -12,6 +12,14 @@ Hello 👋! This is a web-based application of the water site. You can download 
 
 # 🔽 Download Process 🔽 (For Web-App):
 
+* Enter: ```git clone https://github.com/Water607965/Water-Site-s-Application-Version.git``` in your terminal.
+* Enter: ```cd Water-Site-s-Application-Version/``` in your terminal.
+* Enter: ```open open Water.pkg``` in your terminal.
+* Go through with the installation.
+* Open your applications folder and look for "Water".
+* Launch it.
+* There ya go!
+* These are the instructions below in case if you want to replicate the creation of the app.
 * Before taking a look at the downlad process, ensure that you have your safari web browser launched.
 * Go to the website: https://h2owater.xyz
 * Go to the help menu in the Mac menu bar and type in "add to dock". Go to this link to see the screenshot for a better view (https://github.com/Water607965/Water-Site-s-Application-Version/assets/151555387/c28e6949-cdb8-47f3-bc50-403c4cd90797)
