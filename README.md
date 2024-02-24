@@ -3,7 +3,7 @@ Hello 👋! This is a web-based application of the water site. You can download 
 
 # 🔽 Download Process 🔽 (For Official Application):
 * Ensure you have an active internet connection 🛜.
-* Double click the PKG installer.
+* Double click the PKG installer. You may get a security popup when trying to launch the installer. Just right click and open the installer instead to open it. There's no security vulnerabilities or compromises in this and is secure.
 * Go through the installer.
 * Afterwards the installation is complete, go to your applications folder.
 * Look for "Waterlord".
